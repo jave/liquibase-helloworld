@@ -1,7 +1,8 @@
 * liquibase helloworld
 maven + liquibase helloworld.
 
-git clone git://github.com/jave/liquibase-helloworld.git
+sgit clone git://github.com/jave/liquibase-helloworld.git
 cd liquibase-helloworld
 mvn liquibase:update
 
+A H2 database file /tmp/liquidhello.h2.db will be created.
