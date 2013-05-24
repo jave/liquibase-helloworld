@@ -1,0 +1,5 @@
+* liquibase helloworld
+maven + liquibase helloworld.
+
+mvn liquibase:update
+
